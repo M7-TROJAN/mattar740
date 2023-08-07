@@ -33,10 +33,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C Programming](https://img.shields.io/badge/-C%20-00599C?style=flat&logo=c&logoColor=white)&nbsp;
+![C++ Programming](https://img.shields.io/badge/-C%2B%2B%20-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+
 
 
 
