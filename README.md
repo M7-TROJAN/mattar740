@@ -42,9 +42,6 @@
 ![C++ Programming](https://img.shields.io/badge/-C%2B%2B%20-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 
 
-
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattar740&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=mattar740&style=for-the-badge">
