@@ -18,7 +18,7 @@
 - 👨‍💻 Check out my portfolio at "sooon" to see some of the projects I've worked on.
 
 
-### Connect with Me :
+### Connect with Me
 
 <a href="https://linkedin.com/in/mahmoud-mohamed-abd" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.link/nx3m8s" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
