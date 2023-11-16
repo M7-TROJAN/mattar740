@@ -27,37 +27,38 @@
 ### 🛠 &nbsp;Tech Stack
 
 #### Languages & Frameworks
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-- ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-- ![API](https://img.shields.io/badge/-API-2C3E50?style=flat)
-- ![MVC](https://img.shields.io/badge/-MVC-3498DB?style=flat&logo=asp.net&logoColor=white)
-- ![LINQ](https://img.shields.io/badge/-LINQ-82329E?style=flat)
-- ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
-- ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![API](https://img.shields.io/badge/-API-2C3E50?style=flat)
+![MVC](https://img.shields.io/badge/-MVC-3498DB?style=flat&logo=asp.net&logoColor=white)
+![LINQ](https://img.shields.io/badge/-LINQ-82329E?style=flat)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 #### Web Technologies
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-- ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 #### Development Tools
-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-- ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
 
 #### Other Technologies
-- ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)
-- ![C Programming](https://img.shields.io/badge/-C%20-00599C?style=flat&logo=c&logoColor=white)
-- ![C++ Programming](https://img.shields.io/badge/-C%2B%2B%20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)
+![C Programming](https://img.shields.io/badge/-C%20-00599C?style=flat&logo=c&logoColor=white)
+![C++ Programming](https://img.shields.io/badge/-C%2B%2B%20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
 
 
 
