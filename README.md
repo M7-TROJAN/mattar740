@@ -24,10 +24,6 @@
 <a href="https://wa.link/nx3m8s" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="https://t.me/mattar74" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-![LinkedIn](https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white)
-![Telegram](https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -61,7 +57,7 @@
 ![C++ Programming](https://img.shields.io/badge/-C%2B%2B%20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 
-
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattar740&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
