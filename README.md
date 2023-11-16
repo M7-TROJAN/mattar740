@@ -24,6 +24,11 @@
 <a href="https://wa.link/nx3m8s" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="https://t.me/mattar74" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
+![LinkedIn](https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Mahmoud%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)
+
+
 ### 🛠 &nbsp;Tech Stack
 
 #### Languages & Frameworks
@@ -45,14 +50,10 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 #### Development Tools
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
 
 #### Other Technologies
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)
